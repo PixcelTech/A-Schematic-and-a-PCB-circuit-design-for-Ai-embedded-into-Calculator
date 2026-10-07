@@ -8,6 +8,7 @@ folder through Kicad.
 
 CON 
 it is a wifi connected and it has a small light then tell you if the wifi is working
+
 light = blinking (wifi not working)
 
 light = stable (wifi fine) 
